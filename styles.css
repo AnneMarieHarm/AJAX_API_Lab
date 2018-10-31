@@ -1,0 +1,22 @@
+body {
+    margin: 100px;
+    background-color:goldenrod;
+    margin: 200px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Merriweather', serif;
+    font-size: 4vw;
+    color: darkblue;
+}
+
+p  {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2vw;
+    color: darkgreen;
+}
+
+img { 
+    border: 10px dotted black;
+}
